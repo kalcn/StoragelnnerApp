@@ -12,7 +12,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-
+//U1065111 蔡旻錡
 public class MainActivity extends AppCompatActivity {
     private String filename = "myNote.txt";
     private static final int READ_BLOCK_SIZE = 100;
